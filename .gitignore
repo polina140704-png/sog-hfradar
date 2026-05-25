@@ -1,0 +1,16 @@
+# Data files — too large for GitHub
+data/
+output/
+*.nc
+*.mat
+*.zip
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Sensitive
+download_onc_data.py
